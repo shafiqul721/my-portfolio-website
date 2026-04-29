@@ -1,0 +1,289 @@
+
+nav > ul{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 10px;
+     margin-top: 50px 150px;   
+    
+}
+
+nav > ul > li{
+    list-style: none;
+    padding: 10px 20px;    
+
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+
+.title-font {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 28px;
+}
+
+
+.hero-image-logo {
+    position: absolute;
+    top: 26px; 
+    left: 599 .86px;
+    right: 599.86px;
+
+}
+
+.hero-section {
+     position: relative;
+     display: inline-block;
+
+}
+
+.logo-title{
+    position: absolute;
+    top: 298px; 
+    left: 221px;
+    right: 221px;
+    font-weight: 800;
+    font-size: 48px;
+    color: #0D1321;
+    text-align: center;
+    /* padding: 0px 32px; */
+    margin-top: 32px;
+}
+
+.hero-description{
+    position: absolute;
+    top: 458px; 
+    left: 221px;
+    right: 221px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #0D1321;
+    text-align: center;
+    margin-bottom: 142px;
+}
+
+.button-contract-me{
+    position: absolute;
+    top: 542px; 
+    left: 598.5px;
+    right: 598.5px;
+    width: 243px;
+    height: 66px;
+    border-radius: 8px;
+    font-weight: 600;
+    font: size 20px;
+    background-color: #0D1321;
+}
+
+.button-color{
+    
+    color: #FFFFFF;
+}
+ 
+.why-web-section-description{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+
+          
+    
+}
+
+
+
+.why-web{
+    text-align: center;
+    font-size: 32px;
+    font-weight: 800;
+ margin-left: 144px;
+     /* margin-top: 32px; */
+}
+
+/* .why-web-development-section{
+    padding-bottom: 90px;
+} */
+
+
+
+
+
+.reason-description-first{
+    display: flex;
+    gap: 240px;
+    padding-bottom: 48px; 
+
+            
+    
+
+}
+
+
+.reason-description-first-first{
+    text-align: left;
+    margin-left: 220px;
+    flex-wrap: wrap;       
+   
+    
+}
+.reason-description-first-title{
+    font-size: 24px;
+    font-weight: 700;
+    color:rgba(13, 19, 33, 70);
+    opacity: 70%;
+
+}
+
+.reason-description-first-button{
+    width: 170px;
+    height: 48px;
+    margin-top: 32px;
+    stroke: 1  #0D1321;
+     background-color: transparent;
+
+}
+/* .image-first-reason{
+    /* margin-left:623.83px; */
+
+
+
+
+
+
+
+ .image-second-reason{
+    /* margin-left: 20px; */
+    align-items: center;
+    justify-content: center;
+
+
+} 
+
+
+ .reason-description-second-title{
+    font-size: 24px;
+    font-weight: 700;
+    color:rgba(13, 19, 33, 70);
+    opacity: 70%;
+ }
+ .reason-description-second-description{
+    font-size: 16px;
+    font-weight: 400;
+    color:#0D1321;
+    /* opacity: 70%; */
+    justify-content: center;
+    align-items: center;
+ }
+
+.reason-description-second{
+    display: flex;
+    gap: 180px;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 48px;
+}
+
+
+
+.reason-description-second-button{
+     width: 170px;
+    height: 48px;
+    margin-top: 32px;
+    stroke: 1  #0D1321;
+     background-color: transparent;
+     /* color: #0D1321;      */
+
+}
+
+
+
+.reason-description-third{
+      display: flex;
+    gap: 270px; 
+     margin-left: 40px;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 48px;
+
+}
+
+
+.reason-description-third-title{
+    font-size: 24px;
+    font-weight: 700;
+    color:rgba(13, 19, 33, 70);
+    opacity: 70%;
+
+}
+/* .reason-description-third-description{
+    
+
+} */
+
+.reason-description-third-button{
+     width: 170px;
+    height: 48px;
+    margin-top: 32px;
+    
+    stroke: 1  #0D1321;
+     background-color: transparent;
+
+}
+
+
+
+
+
+
+.inspiration-title{
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+    margin-bottom: 32px;
+    color: #0D1321;
+}
+
+.inspiration-description{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    justify-content: center;
+    color: #0D1321;
+    /* margin-left: 20px; */
+    padding-bottom: 48px;
+}
+.video-inspiration{
+    margin-left: 180px;
+
+}
+
+
+
+
+
+
+
+
+
+       /*------------Shared styles -----        */
+
+
+* {
+    font-family: azeret mono, monospace;
+}
+
+
+.button{
+    font-weight: 600;
+    font: size 20px;
+    border-radius: 8px;
+    padding: 17px 25px;
+    background-color: transparent;
+    color: #0D1321;
+    border: 1px solid #0D1321;
+}
