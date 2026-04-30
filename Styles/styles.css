@@ -1,4 +1,10 @@
 
+
+
+
+
+
+
 nav > ul{
     display: flex;
     justify-content: space-between;
@@ -261,6 +267,174 @@ a{
     margin-left: 180px;
 
 }
+
+
+
+
+/* Target Section-starts */
+.my-current-target-title{
+    font-size: 32px;
+    font-weight:800;
+    justify-content: center;
+    text-align: center;
+}
+
+.my-current-target-description{
+    justify-content: center;
+    text-align: center;
+    /* margin-left: 240px; */
+    padding-bottom: px;
+}
+.image-current{
+    padding-bottom: 24px;
+    padding-top: 40;
+
+}
+
+.image-title{
+    font-size: 24px;
+    font-weight: 800;
+    /* padding-bottom: px; */
+        margin-left: 10px  ;
+
+
+}
+.image-description{
+    font-size: 16px;
+    padding-bottom: 24px;
+    text-align:left; 
+    margin-left: 165px  ;
+
+
+
+}
+
+
+.hyperlink{
+    font-weight:600;
+    font-size: 16px;
+            margin-left: 48px  ;
+
+    
+
+}
+
+.skills-current{
+    display: flex;
+    /* align-items: center; */
+    text-align: center;
+    gap:40px;
+
+}
+.java-title{
+    margin-left: 80px;
+     font-size: 24px;
+    font-weight: 800;
+    /* padding-bottom: px; */
+        /* margin-left: 10px  ; */
+
+}
+
+.css-title{
+     font-size: 24px;
+    font-weight: 800;
+    /* padding-bottom: px; */
+        /* margin-left: 5px  ; */
+
+}
+
+.css-image{
+    font-size: 16px;
+    padding-bottom: 24px;
+    text-align:left; 
+    margin-left: -14px  ;
+    padding-top: 24px;
+
+}
+.html-image{
+     font-size: 16px;
+    padding-bottom: 24px;
+    text-align:left; 
+        padding-top: 24px;
+    /* margin-left: 165px  ; */
+
+
+}
+
+
+.java-iamge{
+     font-size: 16px;
+    padding-bottom: 24px;
+    text-align:left; 
+        padding-top: 24px;
+
+}
+
+.my-future-targets-starts{
+    padding-top: 24px;
+}
+
+.target-title{
+    font-size: 32px;
+    font-weight:800;
+    justify-content: center;
+    text-align: center;
+}
+
+
+.target-description{
+    justify-content: center;
+    text-align: center;
+    margin-left: 60px;
+    /* padding-bottom: px; */
+
+}
+
+/* .img{
+    width: 94.78px;
+    height: 108px;
+} */
+/* .skills-future{
+    /* font-size: ; */
+    /* display: inline-flexbox; */
+    /* padding-top: 48px; */
+ 
+
+.react-section{
+    display: flex;
+    gap: 24px;
+    /* align-items: center  ; */
+   
+    /* flex-wrap: 24px; */
+
+}
+
+
+.react-image{
+    height: 85px;
+    padding-top: 60px;
+    /* padding-bottom: 50px; */
+    width: 95px;
+    margin-left: 40px;
+}
+
+.react-image-title{
+    margin-left: 50px;
+    font-size: 24px;
+    font-weight: 800;
+    
+
+}
+
+.react-description{
+    margin-left: 50px; 
+    padding-bottom: 24px;
+
+
+}
+/* Target Section-ends */
+
+
 
 
 
