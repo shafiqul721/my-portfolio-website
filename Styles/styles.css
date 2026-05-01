@@ -489,7 +489,7 @@ a{
 
 
 .background-image-suppourt {
-  background-image: url("/assets/handshake.jpg");
+  background-image: url("../assets/handshake.jpg");
   background-size: cover;
   background-position: center;
   /* width: 1140px; */
