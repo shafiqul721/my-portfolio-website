@@ -316,7 +316,12 @@ a{
             margin-left: 20px  ;
             /* margin-bottom: 10px; */
 
-    
+}
+
+.hyperlink-react{
+     font-weight:600;
+    font-size: 16px;
+            margin-left: 50px  ;
 
 }
 
@@ -527,7 +532,12 @@ border-radius: 16px;
   
 }
     
-
+.footer-section{
+    display: flex;
+    gap: 500px;
+    align-items: center;
+    padding-bottom: 20px;
+}
 .input-text{
     width: 500px;
     height: 57px;
@@ -538,12 +548,23 @@ border-radius: 16px;
      padding-left: 10px;
 }
 
+.footer-content-text{
+    font-size: 20px;
+    font-weight: 600;
+    color: #0D1321;
+    margin-left: 68px;
+}
+
 .submit-button-last{
     width: 110px;
     height: 63px;
     border-radius: 8px;
      border-color: transparent;
 
+}
+
+.footer-content{
+    margin-left: 90px;
 }
 /*------------Shared styles -----        */
 
